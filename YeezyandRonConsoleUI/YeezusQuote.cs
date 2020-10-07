@@ -19,7 +19,7 @@ namespace YeezyandRonConsoleUI
 
 
             client = new HttpClient();
-            //clien
+            //client
 
             var ronURL = "https://ron-swanson-quotes.herokuapp.com/v2/quotes";
 

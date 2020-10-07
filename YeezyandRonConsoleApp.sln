@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YeezyandRonConsoleUI", "YeezyandRonConsoleUI\YeezyandRonConsoleUI.csproj", "{C43B112B-16D3-4ACB-AE1A-2C65D392CB1D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02D621FA-0992-4EAA-8B34-5783D90EE6E3}"
+	ProjectSection(SolutionItems) = preProject
+		YeezyandRonConsoleApp.sln = YeezyandRonConsoleApp.sln
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
